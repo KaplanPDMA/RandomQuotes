@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array
+        name="quotes">
+        <item>Clever is good enough, not be overly clever</item>
+        <item>A wise man knows when to keep quiet</item>
+        <item>A family in harmony is the key to happiness</item>
+        <item>It is ok to just keep quiet instead of trading insults</item>
+        <item>Always think twice before taking the plunge</item>
+        <item>If there is a queue, there must be something good</item>
+    </string-array>
+</resources>
